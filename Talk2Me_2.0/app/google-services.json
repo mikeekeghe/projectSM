@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "367962643736",
+    "firebase_url": "https://talk2me2-53d42.firebaseio.com",
+    "project_id": "talk2me2-53d42",
+    "storage_bucket": "talk2me2-53d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367962643736:android:bf1c3cb129af6fd8",
+        "android_client_info": {
+          "package_name": "com.cchd.talk2me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367962643736-ehgvinu91k7lljpsv8qio3t52gg1i5q9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "367962643736-ehgvinu91k7lljpsv8qio3t52gg1i5q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidebLo1HD8GQSiPYYauS_i_04KWuhiEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
